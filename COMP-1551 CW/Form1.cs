@@ -125,6 +125,31 @@ namespace COMP_1551_CW
         {
 
         }
+
+        private void panel2_Paint_1(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void panel4_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void AppName_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label1_Click_2(object sender, EventArgs e)
+        {
+
+        }
+
+        private void NumErrLbl_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
 
